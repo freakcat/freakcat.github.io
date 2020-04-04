@@ -4,7 +4,7 @@
     "client_id": "",
     "client_secret": "",
     "title": "Gitblog",
-    "instruction": "基于GitHub issue的个人博客模板",
+    "instruction": "GitHub issue",
     "server_link": "",
     "filter": {
         "creator": "all",
@@ -14,12 +14,12 @@
         "首页":"./"
     },
     "friends": {
-        "imuncle" : "https://imuncle.github.io"
+        "imuncle" : ""
     },
     "icons": {
         "Github" : {
             "icon_src" : "images/github.svg",
-            "href" : "https://github.com/imuncle/gitblog",
+            "href" : "https://freakcat.github.io/",
             "hidden_img" : null,
             "width" : 0
         }
